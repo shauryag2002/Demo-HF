@@ -14,7 +14,7 @@
     {
         "id" : " ",
         "name" : " ",
-        "yearOfGraduation : " ",
+        "yearOfGraduation" : " " ,
         "intrestOfWork" : " ",
         "favouriteQuote" : " "
     },    
@@ -178,7 +178,15 @@
         "favorite Quote" : "Just be you with positive vibe."
      },
     
+     {
+        "id" : "33",
+        "Name" : "Abhiraj",
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "cyber security",
+        "favorite Quote" : "Do what you love"
+     },
     
+
      {
    
     "id" : "1",
@@ -195,6 +203,14 @@
     
     
     
+    {
+        "id" : "424",
+        "Name" : "Amitesh",
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "AI & Web Development",
+        "favorite Quote" : "You can't change the future but you can change the past. By interpreting the past it's possible to change how you see things"
+     },
+
     
   ]
 
