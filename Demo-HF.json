@@ -115,6 +115,14 @@
         "Intrest of work" : "web development"
         "favorite Quote" : "Believe in you"
     },
+    
+     {  
+        "id" : "26",
+        "Name" : "Diya",
+        "Year of Graduation" : "2025"
+        "Intrest of work" : "machine learning"
+        "favorite Quote" : "live like a child"
+    },
 
 
 ]
