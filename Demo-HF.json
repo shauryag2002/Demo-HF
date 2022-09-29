@@ -31,7 +31,7 @@
          
         
 
-    }
+    },
 
     {
        "id" : "4",
@@ -47,7 +47,7 @@
         "Name" : "Aditya",
         "Year of Graduation" : "2026",
         "Intrest of work" : "Coding",
-        "favorite Quote" : "Nothing is Impossible",
+        "favorite Quote" : "Nothing is Impossible"
         },
 
     
@@ -57,15 +57,22 @@
         "Name" : "Anuja",
         "Year of Graduation" : "2025",
         "Intrest of work" : "Learning new programming langauges",
-        "favorite Quote" : "Stay focused",
-        }
+        "favorite Quote" : "Stay focused"
+        },
  {
         "id" : "21",
         "Name" : "Vaishnavi",
         "Year of Graduation" : "2024",
         "Intrest of work" : "Full Stack Web Development",
-        "favorite Quote" : "Be Yourself",
-        }
+        "favorite Quote" : "Be Yourself"
+        },
+    {
+        "id" : "43",
+        "Name" : "Pranav",
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "Web Development",
+        
+    },
 
 ]
 
