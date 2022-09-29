@@ -87,6 +87,14 @@
         "Year of Graduation" : "2026",
         "Intrest of work" : "web development",
         "favorite Quote" : "We've got this"
+    },
+
+    {
+        "id" : "28",
+        "Name" : "Prathamesh",
+        "Year of Graduation" : "3278",
+        "Intrest of work" : "Android Development",
+        "favorite Quote" : "Give your 100% no matter what"
     }
 
 ]
