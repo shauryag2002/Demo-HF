@@ -22,5 +22,16 @@ EX :-
         "Year of Graduation" : "2025"
         "Intrest of Work" : "cyber security"
         "Favroite Quote" : "Speak less,Think more"
+        }
+       ]
+
+
+      [
+       {
+        "id" : "003",
+        "Name" : "Aman Shaikh",
+        "Year of Graduation" : "2024"
+        "Intrest of work" : "Cloud Development"
+        "favorite Quote" : "To shine like a sun, Burn like a sun"
        }
          ]

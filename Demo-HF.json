@@ -11,14 +11,6 @@
 
     //Add your information below as shown above 
     
-    {
-       "id" : "2",
-        "Name" : "-",
-        "Year of Graduation" : "-"
-        "Intrest of work" : "-"
-        "favorite Quote" : "-"
-        
-    },
       {
        "id" : "3",
         "Name" : "Aekagra",
@@ -26,7 +18,30 @@
         "Intrest of work" : "marketing"
         "favorite Quote" : "Be calm n composed"
         
+    }  
+     "id" : "15",
+        "Name" : "Sanskruti",
+        "Year of Graduation" : "2025"
+        "Intrest of work" : "Web Development"
+        "favorite Quote" : "Be Positive"
     }
+        
 
     
+
+
+    
+    
+    
+    
+    
+    
+    
+        {
+       "id" : "6",
+        "Name" : "Abhishek",
+        "Year of Graduation" : "2024"
+        "Intrest of work" : "Android app development"
+        "favorite Quote" : "Just do it"
+    },
 ]
