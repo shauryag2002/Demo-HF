@@ -188,12 +188,29 @@
     
 
      {
+
         "id" : "34",
         "Name" : "Sanket",
         "Year of Graduation" : "2024",
         "Intrest of work" : "Cloud Developer",
         "favorite Quote" : "Believe in time"
      },
+    
+
+   
+    "id" : "1",
+    
+    "name" : "koomal",
+    
+    "yearOfGraduation" : "2024",
+    
+    "interestOfWork" : "Android app development",
+    
+    "favouriteQuote" : "shine like sun"
+    
+   },
+    
+    
     
 
     {
