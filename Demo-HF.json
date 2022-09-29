@@ -97,6 +97,16 @@
         "Intrest of work" : "web development",
         "favorite Quote" : "We've got this"
     },
+
+
+    {
+        "id" : "28",
+        "name" : "Prathamesh",
+        "yearOfGraduation" : "3278",
+        "intrestOfWork" : "Android Development",
+        "favoriteQuote" : "Give your 100% no matter what"
+    },
+
     
     {  
         "id" : "12",
@@ -105,6 +115,7 @@
         "Intrest of work" : "web development"
         "favorite Quote" : "Believe in you"
     },
+
 
 ]
 
