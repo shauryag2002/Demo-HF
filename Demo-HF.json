@@ -2,59 +2,68 @@
 
 [
     {
-       "id" : "1",
-        "Name" : "Piyush",
-        "Year of Graduation" : "2025"
-        "Intrest of work" : "Android app development"
-        "favorite Quote" : "force for a good"
+        "id" : "1",
+        "name" : "Piyush",
+        "yearOfGraduation" : "2025",
+        "intrestOfWork" : "Android app development",
+        "favouriteQuote" : "force for a good"
     },
 
     //Add your information below as shown above 
+    
+    {
+        "id" : " ",
+        "name" : " ",
+        "yearOfGraduation : " ",
+        "intrestOfWork" : " ",
+        "favouriteQuote" : " "
+    },    
+ 
      
      {
 
-       "id" : "3",
-        "Name" : "Aekagra",
-        "Year of Graduation" : "2024",
-        "Intrest of work" : "marketing",
-        "favorite Quote" : "Be calm n composed"
+        "id" : "3",
+        "name" : "Aekagra",
+        "yearOfGraduation" : "2024",
+        "intrestOfWork" : "marketing",
+        "favouriteQuote" : "Be calm n composed"
        
      },
          
         
     {
      "id" : "9",
-     "Name" : "Vedant",
-     "Year of Graduation" : "2025",
-     "Intrest of work" : "Cyber Security",
-     "favorite Quote" : "Speak less,Think more"
+     "name" : "Vedant",
+     "yearOfGraduation" : "2025",
+     "intrestOfWork" : "Cyber Security",
+     "favouriteQuote" : "Speak less,Think more"
 
     },
 
     {
        "id" : "4",
-        "Name" : "Aman",
-        "Year of Graduation" : "2024",
-        "Intrest of work" : "Cloud Developing",
-        "favorite Quote" : "Stay Hungry, Stay Foolish"
+        "name" : "Aman",
+        "yearOfGraduation" : "2024",
+        "intrestOfWork" : "Cloud Developing",
+        "favouriteQuote" : "Stay Hungry, Stay Foolish"
         
     },
    
    {
         "id" : "5",
-        "Name" : "Aditya",
-        "Year of Graduation" : "2026",
-        "Intrest of work" : "Coding",
-        "favorite Quote" : "Nothing is Impossible"
+        "name" : "Aditya",
+        "yearOfGraduation" : "2026",
+        "intrestOfWork" : "Coding",
+        "favouriteQuote" : "Nothing is Impossible"
         },
     
     {
         "id" : "20",
-        "Name" : "Anuja",
-        "Year of Graduation" : "2025",
-        "Intrest of work" : "Learning new programming langauges",
+        "name" : "Anuja",
+        "yearOfGraduation" : "2025",
+        "intrestOfWork" : "Learning new programming langauges",
 
-        "favorite Quote" : "Stay focused"
+        "favouriteQuote" : "Stay focused"
         },
    
     { 
@@ -69,33 +78,33 @@
     {
 
         "id" : "21",
-        "Name" : "Vaishnavi",
-        "Year of Graduation" : "2024",
-        "Intrest of work" : "Full Stack Web Development",
-        "favorite Quote" : "Be Yourself"
+        "name" : "Vaishnavi",
+        "yearOfGraduation" : "2024",
+        "intrestOfWork" : "Full Stack Web Development",
+        "favouriteQuote" : "Be Yourself"
         },
     {
         "id" : "43",
-        "Name" : "Pranav",
-        "Year of Graduation" : "2025",
-        "Intrest of work" : "Web Development",
-        "favorite Quote" : "Be Yourself"
+        "name" : "Pranav",
+        "yearOfGraduation" : "2025",
+        "intrestOfWork" : "Web Development",
+        "favouriteQuote" : "Be Yourself"
       },
   
   {  
         "id" : "25",
-        "Name" : "Pratiksha",
-        "Year of Graduation" : "2025",
-        "Intrest of work" : "web development",
-        "favorite Quote" : "Don't quit"
+        "name" : "Pratiksha",
+        "yearOfGraduation" : "2025",
+        "intrestOfWork" : "web development",
+        "favouriteQuote" : "Don't quit"
     },
 
     {
         "id" : "27",
-        "Name" : "Shreya",
-        "Year of Graduation" : "2026",
-        "Intrest of work" : "web development",
-        "favorite Quote" : "We've got this"
+        "name" : "Shreya",
+        "yearOfGraduation" : "2026",
+        "intrestOfWork" : "web development",
+        "favouriteQuote" : "We've got this"
     },
 
 
@@ -110,29 +119,29 @@
     
     {  
         "id" : "12",
-        "Name" : "Gunjan",
-        "Year of Graduation" : "2025",
-        "Intrest of work" : "web development",
-        "favorite Quote" : "Believe in you"
+        "name" : "Gunjan",
+        "yearOfGraduation" : "2025",
+        "intrestOfWork" : "web development",
+        "favouriteQuote" : "Believe in you"
 
     },
     
      {  
         "id" : "26",
-        "Name" : "Diya",
-        "Year of Graduation" : "2025",
-        "Intrest of work" : "machine learning",
-        "favorite Quote" : "live like a child"
+        "name" : "Diya",
+        "yearOfGraduation" : "2025",
+        "intrestOfWork" : "machine learning",
+        "favouriteQuote" : "live like a child"
         
       }, 
 
 
       {
        "id" : "5",
-        "Name" : "Aekagra",
-        "Year of Graduation" : "2025",
-        "Intrest of work" : "web development",
-        "favorite Quote" : "start with new things"
+        "name" : "Aekagra",
+        "yearOfGraduation" : "2025",
+        "intrestOfWork" : "web development",
+        "favouriteQuote" : "start with new things"
         
     },
     
@@ -146,10 +155,10 @@
     
     {
         "id" : "7",
-        "Name" : "Shajahan",
-        "Year of Graduation" : "2025",
-        "Intrest of work" : "web development and machine learning",
-        "favorite Quote" : "consistency is key to success."
+        "name" : "Shajahan",
+        "yearOfGraduation" : "2025",
+        "intrestOfWork" : "web development and machine learning",
+        "favouriteQuote" : "consistency is key to success."
      },
     
      {
