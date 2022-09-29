@@ -10,25 +10,104 @@
     },
 
     //Add your information below as shown above 
-    
-      {
+     
+     {
+
        "id" : "3",
         "Name" : "Aekagra",
         "Year of Graduation" : "2024"
         "Intrest of work" : "marketing"
         "favorite Quote" : "Be calm n composed"
+       
+     },
+         
         
-    }
+    {
+     "id" : "9",
+     "Name" : "Vedant",
+     "Year of Graduation" : "2025"
+     "Intrest of work" : "Cyber Security"
+     "favorite Quote" : "Speak less,Think more"
 
+    },
+
+    {
+       "id" : "4",
+        "Name" : "Aman",
+        "Year of Graduation" : "2024"
+        "Intrest of work" : "Cloud Developing"
+        "favorite Quote" : "Stay Hungry, Stay Foolish"
+        
+    },
+   
+   {
+        "id" : "5",
+        "Name" : "Aditya",
+        "Year of Graduation" : "2026",
+        "Intrest of work" : "Coding",
+        "favorite Quote" : "Nothing is Impossible"
+        },
     
-    
-    
+    {
+        "id" : "20",
+        "Name" : "Anuja",
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "Learning new programming langauges",
+
+        "favorite Quote" : "Stay focused"
+        },
+   
     { 
     "id": "19",
     "name": "Sanskruti",
     "year_of_graduation":"2025",
     "interest_of_work": "Web Development",
     "favourite_quote": "Be positive"
+
+    {
+
+        "id" : "21",
+        "Name" : "Vaishnavi",
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "Full Stack Web Development",
+        "favorite Quote" : "Be Yourself"
+        },
+    {
+        "id" : "43",
+        "Name" : "Pranav",
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "Web Development",
+        "favorite Quote" : "Be Yourself",
+      },
+  
+  {  
+        "id" : "25",
+        "Name" : "Pratiksha",
+        "Year of Graduation" : "2025"
+        "Intrest of work" : "web development"
+        "favorite Quote" : "Don't quit"
+    },
+
+    {
+        "id" : "27",
+        "Name" : "Shreya",
+        "Year of Graduation" : "2026",
+        "Intrest of work" : "web development",
+        "favorite Quote" : "We've got this"
+    },
+    
+    {  
+        "id" : "12",
+        "Name" : "Gunjan",
+        "Year of Graduation" : "2025"
+        "Intrest of work" : "web development"
+        "favorite Quote" : "Believe in you"
     },
 
 ]
+
+
+        
+
+
+
