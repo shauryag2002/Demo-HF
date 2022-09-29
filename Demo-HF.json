@@ -62,7 +62,12 @@
         "Intrest of work" : "Full Stack Web Development",
         "favorite Quote" : "Be Yourself",
         }
-
+       "id" : "25",
+        "Name" : "Pratiksha",
+        "Year of Graduation" : "2025"
+        "Intrest of work" : "web development"
+        "favorite Quote" : "Don't quit"
+    }
 ]
 
 
