@@ -8,6 +8,13 @@
     },
 
     //Add your information below as shown above 
+    
+    {
+        "Name" : "",
+        "Year" : "",
+        "Intrest of work" : ""
+        
+    },
 
     
 ]
