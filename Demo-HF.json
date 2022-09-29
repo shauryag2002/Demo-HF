@@ -15,8 +15,8 @@
 
        "id" : "3",
         "Name" : "Aekagra",
-        "Year of Graduation" : "2024"
-        "Intrest of work" : "marketing"
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "marketing",
         "favorite Quote" : "Be calm n composed"
        
      },
@@ -25,8 +25,8 @@
     {
      "id" : "9",
      "Name" : "Vedant",
-     "Year of Graduation" : "2025"
-     "Intrest of work" : "Cyber Security"
+     "Year of Graduation" : "2025",
+     "Intrest of work" : "Cyber Security",
      "favorite Quote" : "Speak less,Think more"
 
     },
@@ -34,8 +34,8 @@
     {
        "id" : "4",
         "Name" : "Aman",
-        "Year of Graduation" : "2024"
-        "Intrest of work" : "Cloud Developing"
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "Cloud Developing",
         "favorite Quote" : "Stay Hungry, Stay Foolish"
         
     },
@@ -79,14 +79,14 @@
         "Name" : "Pranav",
         "Year of Graduation" : "2025",
         "Intrest of work" : "Web Development",
-        "favorite Quote" : "Be Yourself",
+        "favorite Quote" : "Be Yourself"
       },
   
   {  
         "id" : "25",
         "Name" : "Pratiksha",
-        "Year of Graduation" : "2025"
-        "Intrest of work" : "web development"
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "web development",
         "favorite Quote" : "Don't quit"
     },
 
@@ -111,8 +111,8 @@
     {  
         "id" : "12",
         "Name" : "Gunjan",
-        "Year of Graduation" : "2025"
-        "Intrest of work" : "web development"
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "web development",
         "favorite Quote" : "Believe in you"
 
     },
@@ -120,8 +120,8 @@
      {  
         "id" : "26",
         "Name" : "Diya",
-        "Year of Graduation" : "2025"
-        "Intrest of work" : "machine learning"
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "machine learning",
         "favorite Quote" : "live like a child"
         
       }, 
@@ -130,8 +130,8 @@
       {
        "id" : "5",
         "Name" : "Aekagra",
-        "Year of Graduation" : "2025"
-        "Intrest of work" : "web development"
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "web development",
         "favorite Quote" : "start with new things"
         
     },
@@ -144,25 +144,6 @@
         "favourite_quote" : "Believe In Yourself"
     },
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-]
-
- [
     {
         "id" : "7",
         "Name" : "Shajahan",
@@ -170,6 +151,12 @@
         "Intrest of work" : "web development and machine learning",
         "favorite Quote" : "consistency is key to success."
      },
+    
+    
+    
+    
+    
+    
   ]
 
 
