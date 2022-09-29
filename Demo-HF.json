@@ -10,22 +10,17 @@
     },
 
     //Add your information below as shown above 
-    
-      {
+     
+     {
+
        "id" : "3",
         "Name" : "Aekagra",
         "Year of Graduation" : "2024"
         "Intrest of work" : "marketing"
         "favorite Quote" : "Be calm n composed"
+         
         
-    }  
-     "id" : "15",
-        "Name" : "Sanskruti",
-        "Year of Graduation" : "2025"
-        "Intrest of work" : "Web Development"
-        "favorite Quote" : "Be Positive"
-    }
-        
+
     {
      "id" : "9",
      "Name" : "Vedant",
@@ -34,18 +29,45 @@
      "favorite Quote" : "Speak less,Think more"
     },
 
-    
-    
-    
-    
-    
-    
-    
-        {
-       "id" : "6",
-        "Name" : "Abhishek",
+    {
+       "id" : "4",
+        "Name" : "Aman",
         "Year of Graduation" : "2024"
-        "Intrest of work" : "Android app development"
-        "favorite Quote" : "Just do it"
+        "Intrest of work" : "Cloud Developing"
+        "favorite Quote" : "Stay Hungry, Stay Foolish"
+        
     },
+   
+   {
+        "id" : "5",
+        "Name" : "Aditya",
+        "Year of Graduation" : "2026",
+        "Intrest of work" : "Coding",
+        "favorite Quote" : "Nothing is Impossible",
+        },
+
+
+    
+    
+    {
+        "id" : "20",
+        "Name" : "Anuja",
+        "Year of Graduation" : "2025",
+        "Intrest of work" : "Learning new programming langauges",
+        "favorite Quote" : "Stay focused",
+        }
+ {
+        "id" : "21",
+        "Name" : "Vaishnavi",
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "Full Stack Web Development",
+        "favorite Quote" : "Be Yourself",
+        }
+
 ]
+
+
+        
+
+
+
