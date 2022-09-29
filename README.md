@@ -18,12 +18,4 @@ EX :-
         "favorite Quote" : "force for a good"
        }
          ]
-  [
-       {
-        "id" : "2",
-        "Name" : "Aekagra",
-        "Year of Graduation" : "2025"
-        "Intrest of work" : "Business"
-        "favorite Quote" : "Be fQuite and Composed"
-       }
-         ]
+ 
