@@ -87,7 +87,14 @@
         "Year of Graduation" : "2026",
         "Intrest of work" : "web development",
         "favorite Quote" : "We've got this"
-    }
+    },
+    {  
+        "id" : "12",
+        "Name" : "Gunjan",
+        "Year of Graduation" : "2025"
+        "Intrest of work" : "web development"
+        "favorite Quote" : "Believe in you"
+    },
 
 ]
 
