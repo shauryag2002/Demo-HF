@@ -220,6 +220,13 @@
         "Intrest of work" : "AI & Web Development",
         "favorite Quote" : "You can't change the future but you can change the past. By interpreting the past it's possible to change how you see things"
      },
+    {
+         "id" : "143",
+        "name" : "Ayush",
+        "yearOfGraduation" : "2024",
+        "intrestOfWork" : "Full Stack Web + CP + OpenSource",
+        "favouriteQuote" : "Let's change education system to educated system :)"
+    }
 
     
   ]
