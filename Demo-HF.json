@@ -26,9 +26,13 @@
         "favorite Quote" : "Be Positive"
     }
         
-
-    
-
+    {
+     "id" : "9",
+     "Name" : "Vedant",
+     "Year of Graduation" : "2025"
+     "Intrest of work" : "Cyber Security"
+     "favorite Quote" : "Speak less,Think more"
+    },
 
     
     
