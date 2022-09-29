@@ -186,8 +186,13 @@
         "favorite Quote" : "Do what you love"
      },
     
-    
-    
+     {
+        "id" : "34",
+        "Name" : "Sanket",
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "Cloud Developer",
+        "favorite Quote" : "Believe in time"
+     },
     
     
   ]
