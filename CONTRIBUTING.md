@@ -9,8 +9,8 @@ EX :-
         {
             "id" : "1",
             "Name" : "Piyush",
-            "Year of Graduation" : "2025"
-            "Intrest of work" : "Android app development"
+            "Year of Graduation" : "2025",
+            "Intrest of work" : "Android app development",
             "favorite Quote" : "force for a good"
-         }
+         },
       ]
