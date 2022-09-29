@@ -7,10 +7,10 @@ EX :-
 
       [
        {
-        "id" : "1",
-        "Name" : "Piyush",
-        "Year of Graduation" : "2025"
-        "Intrest of work" : "Android app development"
+        "id" : "001",
+        "Name" : "Rohit",
+        "Year of Graduation" : "2024"
+        "Intrest of work" : "Web evelopment"
         "favorite Quote" : "force for a good"
        }
          ]
