@@ -39,14 +39,16 @@
         "Intrest of work" : "Coding",
         "favorite Quote" : "Nothing is Impossible",
         },
-    ]
+    
     
         "id" : "20",
         "Name" : "Anuja",
         "Year of Graduation" : "2025",
         "Intrest of work" : "Learning new programming langauges",
         "favorite Quote" : "Stay focused",
-        },
+        }
+
+]
 
 
         
