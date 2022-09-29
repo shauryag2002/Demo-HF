@@ -59,6 +59,13 @@
         "Intrest of work" : "Learning new programming langauges",
         "favorite Quote" : "Stay focused",
         }
+ {
+        "id" : "21",
+        "Name" : "Vaishnavi",
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "Full Stack Web Development",
+        "favorite Quote" : "Be Yourself",
+        }
 
 ]
 
