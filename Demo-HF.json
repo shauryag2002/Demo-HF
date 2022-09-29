@@ -114,8 +114,17 @@
         "Year of Graduation" : "2025"
         "Intrest of work" : "web development"
         "favorite Quote" : "Believe in you"
-    },
+    }, 
 
+
+      {
+       "id" : "5",
+        "Name" : "Aekagra",
+        "Year of Graduation" : "2025"
+        "Intrest of work" : "web development"
+        "favorite Quote" : "start with new things"
+        
+    },
 
 ]
 
