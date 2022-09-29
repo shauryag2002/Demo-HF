@@ -45,9 +45,6 @@
         "Intrest of work" : "Coding",
         "favorite Quote" : "Nothing is Impossible",
         },
-
-
-    
     
     {
         "id" : "20",
@@ -56,6 +53,8 @@
         "Intrest of work" : "Learning new programming langauges",
         "favorite Quote" : "Stay focused",
         },
+    
+    
     {
         "id" : "21",
         "Name" : "Vaishnavi",
