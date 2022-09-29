@@ -19,7 +19,8 @@
         "favorite Quote" : "-"
         
     },
-      {
+     
+     {
        "id" : "3",
         "Name" : "Aekagra",
         "Year of Graduation" : "2024"
@@ -28,7 +29,8 @@
          
         
     },
-    {
+   
+   {
         "id" : "5",
         "Name" : "Aditya",
         "Year of Graduation" : "2026",
