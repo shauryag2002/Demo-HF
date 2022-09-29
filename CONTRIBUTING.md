@@ -14,3 +14,13 @@ EX :-
         "favorite Quote" : "force for a good"
        }
          ]
+         
+      [
+       {
+        "id" : "002",
+        "Name" : "Vedant",
+        "Year of Graduation" : "2025"
+        "Intrest of Work" : "cyber security"
+        "Favroite Quote" : "Speak less,Think more"
+       }
+         ]
