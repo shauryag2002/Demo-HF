@@ -186,6 +186,23 @@
         "favorite Quote" : "Do what you love"
      },
     
+
+     {
+   
+    "id" : "1",
+    
+    "name" : "koomal",
+    
+    "yearOfGraduation" : "2024",
+    
+    "interestOfWork" : "Android app development",
+    
+    "favouriteQuote" : "shine like sun"
+    
+   },
+    
+    
+    
     {
         "id" : "424",
         "Name" : "Amitesh",
@@ -193,6 +210,7 @@
         "Intrest of work" : "AI & Web Development",
         "favorite Quote" : "You can't change the future but you can change the past. By interpreting the past it's possible to change how you see things"
      },
+
     
   ]
 
