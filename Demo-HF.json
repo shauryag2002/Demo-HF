@@ -81,13 +81,14 @@
         "Intrest of work" : "web development"
         "favorite Quote" : "Don't quit"
     },
-    {  
-        "id" : "26",
-        "Name" : "Shreyash",
-        "Year of Graduation" : "2022"
-        "Intrest of work" : "UI/UX"
-        "favorite Quote" : "Talk is cheap, show me the code"
-    },
+
+    {
+        "id" : "27",
+        "Name" : "Shreya",
+        "Year of Graduation" : "2026",
+        "Intrest of work" : "web development",
+        "favorite Quote" : "We've got this"
+    }
 
 ]
 
