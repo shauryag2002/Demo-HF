@@ -21,7 +21,13 @@
          
         
 
-    }
+    {
+     "id" : "9",
+     "Name" : "Vedant",
+     "Year of Graduation" : "2025"
+     "Intrest of work" : "Cyber Security"
+     "favorite Quote" : "Speak less,Think more"
+    },
 
     {
        "id" : "4",
@@ -39,6 +45,7 @@
         "Intrest of work" : "Coding",
         "favorite Quote" : "Nothing is Impossible",
         },
+
 
     
     
