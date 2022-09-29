@@ -56,7 +56,16 @@
 
         "favorite Quote" : "Stay focused"
         },
+   
+    { 
+    "id": "19",
+    "name": "Sanskruti",
+    "year_of_graduation":"2025",
+    "interest_of_work": "Web Development",
+    "favourite_quote": "Be positive"
     
+    },
+
     {
 
         "id" : "21",
@@ -89,13 +98,24 @@
         "favorite Quote" : "We've got this"
     },
 
+
     {
         "id" : "28",
         "Name" : "Prathamesh",
         "Year of Graduation" : "3278",
         "Intrest of work" : "Android Development",
         "favorite Quote" : "Give your 100% no matter what"
-    }
+    },
+
+    
+    {  
+        "id" : "12",
+        "Name" : "Gunjan",
+        "Year of Graduation" : "2025"
+        "Intrest of work" : "web development"
+        "favorite Quote" : "Believe in you"
+    },
+
 
 ]
 
