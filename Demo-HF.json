@@ -145,6 +145,17 @@
         
     },
     
+
+     {
+       "id" : "24",
+        "Name" : "Preshita",
+        "Year of Graduation" : "2024"
+        "Intrest of work" : "cyber security"
+        "favorite Quote" : "good things take time!"
+        
+    },
+
+
     {
         "id" : "41",
         "name" : "Prajakta",
@@ -186,6 +197,7 @@
         "favorite Quote" : "Do what you love"
      },
     
+
 
      {
 
