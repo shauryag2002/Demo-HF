@@ -1,4 +1,4 @@
-<-- DO NOT CHANGE THIS SECTIION -->
+
 
 [
     {
@@ -8,16 +8,6 @@
         "intrestOfWork" : "Android app development",
         "favouriteQuote" : "force for a good"
     },
-
-    //Add your information below as shown above 
-    
-    {
-        "id" : " ",
-        "name" : " ",
-        "yearOfGraduation" : " " ,
-        "intrestOfWork" : " ",
-        "favouriteQuote" : " "
-    },    
  
      
      {
@@ -149,8 +139,8 @@
      {
        "id" : "24",
         "Name" : "Preshita",
-        "Year of Graduation" : "2024"
-        "Intrest of work" : "cyber security"
+        "Year of Graduation" : "2024",
+        "Intrest of work" : "cyber security",
         "favorite Quote" : "good things take time!"
         
     },
@@ -210,7 +200,7 @@
     
 
    
-    "id" : "1",
+    {"id" : "1",
     
     "name" : "koomal",
     
@@ -238,17 +228,14 @@
         "yearOfGraduation" : "2024",
         "intrestOfWork" : "Full Stack Web + CP + OpenSource",
         "favouriteQuote" : "Let's change education system to educated system :)"
-    }
-
-    
-  ]
+    },
 
 {
    
     "id" : "07",
     "name" : "Atharva",
     "yearOfGraduation" : "2024",
-    "interestOfWork" : "Content Writing", "Web development"
+    "interestOfWork" : "Content Writing",
     "favouriteQuote" : "Keep it going!!"
     
    },
@@ -263,6 +250,15 @@
     "interestOfWork" : "Data Science and Illustration",
     
     "favouriteQuote" : "Be water"
+    
+   },
+   {
+   
+    "id" : "118",
+    "name" : "Shaurya Gupta",
+    "yearOfGraduation" : "2024",
+    "interestOfWork" :  "Web development(MERN stack)",
+    "favouriteQuote" : "Do Epic Shit!!"
     
    }
    
