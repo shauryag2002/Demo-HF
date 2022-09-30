@@ -251,6 +251,19 @@
     "interestOfWork" : "Content Writing", "Web development"
     "favouriteQuote" : "Keep it going!!"
     
+   },
+    {
+   
+    "id" : "2",
+    
+    "name" : "Sarthak",
+    
+    "yearOfGraduation" : "2024",
+    
+    "interestOfWork" : "Data Science and Illustration",
+    
+    "favouriteQuote" : "Be water"
+    
    }
    
 ]
